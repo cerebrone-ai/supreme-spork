@@ -1,0 +1,22 @@
+  208  clear
+  209  ls
+  210  cd myrepos/
+  211  ls
+  212  cd supreme-spork/
+  213  ls
+  214  git branch
+  215  git fetch https://github.com/cerebrone-ai/supreme-spork
+  216  git fetch https://github.com/cerebrone-ai/supreme-spork.git test2
+  217  git branch
+  218  git fetch -all
+  219  git fetch --all
+  220  git bracnh
+  221  git branch 
+  222  git fetch origin
+  223  git branch
+  224  git fetch origin test2
+  225  git branch
+  226  history
+  227  cd ..
+  228  ls
+  229  history >>Reed_history.txt
